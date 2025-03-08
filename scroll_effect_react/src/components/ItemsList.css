@@ -1,0 +1,21 @@
+.items-list {
+  padding: 10px 15px;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.group-section {
+  margin-bottom: 10px;
+}
+
+.group-title {
+  font-size: 28px;
+  font-weight: 600;
+  margin: 20px 0 15px 0;
+}
+
+.group-items {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
