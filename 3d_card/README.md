@@ -28,4 +28,4 @@ Simply open `index.html` in a modern web browser. Move your mouse around the car
 
 - `index.html`: Basic HTML structure
 - `styles.css`: Styling and 3D transform setup
-- `script.js`: Interactive JavaScript logic
+- `script.js`: Interactive JavaScript
